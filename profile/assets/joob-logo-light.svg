@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="45 203 505 190">
+    <defs>
+      <linearGradient id="bot_grad1" x1="288.01" y1="303.1" x2="247.83" y2="254.74" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#332457"/><stop offset=".48" stop-color="#764896"/>
+      </linearGradient>
+      <linearGradient id="bot_grad2" x1="306.81" y1="319.49" x2="349.76" y2="362.44" gradientUnits="userSpaceOnUse">
+        <stop offset=".05" stop-color="#99383c"/><stop offset=".22" stop-color="#a03943"/>
+        <stop offset=".5" stop-color="#b43a5b"/><stop offset=".84" stop-color="#d43e80"/>
+        <stop offset=".96" stop-color="#e0408f"/>
+      </linearGradient>
+    </defs>
+    <g>
+      <polygon fill="#9b4493" points="254.69 249.04 254.69 285.71 230.07 310.33 193.41 310.33 254.69 249.04"/>
+      <polygon fill="url(#bot_grad1)" points="254.69 249.04 297.64 291.99 279.31 310.33 254.69 285.71 254.69 249.04"/>
+      <rect fill="#76a22d" x="284.68" y="297.36" width="25.92" height="25.92" transform="translate(-132.26 301.32) rotate(-45)"/>
+      <polygon fill="#50c1e5" points="279.31 310.33 297.64 328.66 254.69 371.61 254.69 334.94 279.31 310.33"/>
+      <polygon fill="#727ebc" points="254.69 334.94 254.69 371.61 193.41 310.33 230.07 310.33 254.69 334.94"/>
+    </g>
+    <polygon fill="#1d1d1b" points="193.41 310.33 111.66 228.56 93.33 246.9 156.74 310.32 156.74 310.33 156.74 310.33 132.13 334.95 107.52 310.33 70.85 310.33 132.13 371.61 193.41 310.33"/>
+    <path fill="#1d1d1b" d="M463.15,249.04l-35.36,35.36v-34.81s-25.92-25.93-25.92-25.93v86.66s.04-.04,.04-.04l-.04,.04,61.28,61.28,61.28-61.28-61.28-61.29Zm-24.62,61.29l24.62-24.62,24.62,24.62-24.62,24.61-24.62-24.61Z"/>
+    <polygon fill="#fcd829" points="297.64 291.99 315.97 310.33 340.59 285.71 340.59 249.04 297.64 291.99"/>
+    <polygon fill="#ee753e" points="340.59 249.04 401.87 310.33 365.21 310.33 340.59 285.71 340.59 249.04"/>
+    <polygon fill="#e8367b" points="365.21 310.33 401.87 310.33 340.59 371.61 340.59 334.94 365.21 310.33"/>
+    <polygon fill="url(#bot_grad2)" points="340.59 334.94 340.59 371.61 297.64 328.66 315.97 310.33 340.59 334.94"/>
+  </svg>
