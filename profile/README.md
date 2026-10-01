@@ -7,7 +7,7 @@
 
 ### Software House for Industry 4.0
 
-Italian software house founded in 2020 in Pisa, focused on software for industrial automation.
+Italian software house founded in 2020, focused on software for industrial automation.
 We help industrial companies with their digital transformation, building platforms that integrate with complex production processes.
 
 <br>
@@ -25,6 +25,6 @@ We help industrial companies with their digital transformation, building platfor
 
 <br>
 
-[Website](https://www.joob.srl) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/company/joob-s-r-l/) &nbsp;·&nbsp; [info@joob.srl](mailto:info@joob.srl)
+[Website](https://joob.srl) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/company/joob-s-r-l/) &nbsp;·&nbsp; [info@joob.srl](mailto:info@joob.srl)
 
 </div>
